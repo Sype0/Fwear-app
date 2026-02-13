@@ -1,6 +1,6 @@
 # Fwear
 
-**Fwear** is a minimalist, community-driven F-Droid client designed specifically for **Wear OS**.
+**Fwear** is a minimalist, unofficial F-Droid client designed specifically for **Wear OS**.
 
 ## Installation
 
